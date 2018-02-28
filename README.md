@@ -1,10 +1,12 @@
-MSApriori implementation for CS583 Section 2
-team: 1)Abhishek Ranjan  657657618   aranja8@uic.edu
-	  2)Harshit Pant     672155036   hpant2@uic.edu
+## MSApriori implementation for CS583 Section 2
+
+
+##### team: 1)Abhishek Ranjan  657657618   aranja8@uic.edu
+#####       2)Harshit Pant     672155036   harshitpant1992@gmail.com / hpant2@uic.edu
 	  	 
 
 	 
-Intructions to run the project:
+## Intructions to run the project:
 
 1. Install Python 3.6 environment since the project has been done in Python 3.6
 2. Place the input-data.txt, parameter-file.txt, output-patterns.txt in the same folder as MSApriori_HarshitPant_AbhishekRanjan.py
